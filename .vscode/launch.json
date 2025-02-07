@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "c:\\Users\\Dell-User\\Desktop\\index.html\\Module_3R_StudentNo_Classcode_Group_Name-Surname_SDF03_R\\Module_4_CS20240228_Classcode_Group_B_Siyamamkela-Mpehle_JSL04\\index.html"
+        }
+    ]
+}
